@@ -1,0 +1,29 @@
+# Template Proposal
+
+## Permasalahan
+- Banyak orang-orang yang kendaraannya mengalami trouble di jalan dan jauh dari bengkel 
+
+## Rancangan Solusi
+- Bikin aplikasi untuk wadah bengkel-bengkel di indonesia agar memudahkan masyarakat mengetahui bengkel terdekat pada saat trouble 
+- User dapat home service dan tidak perlu datang ke bengkel atau dimanapun anda berada 
+- aplikasi bengkel online ini juga bisa memudahkan masyarakat dalam membeli sparepart di bengkel yang sudah registrasi di bengkel online
+  
+ 
+
+## Use Case
+- User  bisa melakukan registrasi mandiri menggunakan STNK, KTP, dan SIM
+- User Bisa membuat laporan  menggunakan foto, atau koordinat lokasi terkini
+- User Bisa melihat bengkel terdekat yang masih buka
+- User mekanik bengkel bisa melihat dan mendata ada berapa kendaraan dalam sehari dan satu bulan 
+- User mekanik bengkel bisa mengelola biaya administrasi 
+
+## Struktur Data
+
+### User
+Atribut|Tipe Data|Contoh
+---|---|---
+ID | integer | 23
+username | string | yayan
+
+## UX Wireframe
+
